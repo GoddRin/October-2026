@@ -58,7 +58,7 @@ export default function Footer() {
             lineHeight: 1.65
           }}
         >
-          “Palagi mong tatandaan, Mahal na mahal na mahal na mahal ka niya kuya. Happy 19th
+          “Palagi mong tatandaan, Mahal na mahal na mahal na mahal ka ni kuya. Happy 19th
           monthsary my labidabs &lt;3! sending my Virtual kisss and virtual tight huggggg. i love
           you!”
         </p>

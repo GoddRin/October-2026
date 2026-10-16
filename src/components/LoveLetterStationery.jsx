@@ -477,7 +477,7 @@ Ross Ann "Chimp" Mora
                   <strong style={{ color: 'var(--rose-deep)' }}>
                     you are my most treasured loved one with my family.
                   </strong>{' '}
-                  Palagi mong tatandaan, Mahal na mahal na mahal na mahal ka niya kuya. Happy 19th
+                  Palagi mong tatandaan, Mahal na mahal na mahal na mahal ka ni kuya. Happy 19th
                   monthsary my labidabs &lt;3! sending my{' '}
                   <span
                     style={{

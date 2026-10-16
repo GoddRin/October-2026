@@ -25,7 +25,7 @@ export const KUYA_EXACT_LETTER = {
   dateStamp: 'October 22, 2026 • 19th Monthsary Archive',
   paragraphs: [
     "My Labidabsss, octoberr naa, lapit na ikaw grumaduate (Manifesting!). habang ginagawa ko itong message ko for you, i feel so happy na tumagal tayo ng ganito. habang patagal nang patagal, mas na-aappreciate kita. nakikita't nararamdaman ko mga bagay na ginagawa mo para sa akin, sa ating dalawa. Palagi kong itretreasure ang meron tayo.",
-    "Magpapakasal pa tayo kapag nakaipon na ako, okay? Gusto ko Garden Wedding, basta engrande but not so much engrande kasi mauubos agad budget nyan HAHAHAHA jk basta gusto ko ma-feel mong you are my most treasured loved one with my family. Palagi mong tatandaan, Mahal na mahal na mahal na mahal ka niya kuya. Happy 19th monthsary my labidabs <3! sending my Virtual kisss and virtual tight huggggg. i love you!"
+    "Magpapakasal pa tayo kapag nakaipon na ako, okay? Gusto ko Garden Wedding, basta engrande but not so much engrande kasi mauubos agad budget nyan HAHAHAHA jk basta gusto ko ma-feel mong you are my most treasured loved one with my family. Palagi mong tatandaan, Mahal na mahal na mahal na mahal ka ni kuya. Happy 19th monthsary my labidabs <3! sending my Virtual kisss and virtual tight huggggg. i love you!"
   ],
   signOff: 'Yours Truly,',
   signature: 'Kuya',
